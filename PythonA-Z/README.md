@@ -12,3 +12,5 @@
 * Dictionary
 * Functions
 ## Section 3 - Matrices & Simple Visuallization
+
+## Section 4 - Data Frame
